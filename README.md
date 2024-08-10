@@ -75,5 +75,4 @@ The combination of class structures, linked lists, 3D vectors, and optimized alg
 <ul>
   <li>Anish Kumar</li>
   <li>Prakhar Moses</li>
-  <li>Umakant Sahu</li>
 </ul>
