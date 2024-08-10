@@ -1,5 +1,7 @@
 # Breaking Symmetry
 
+[Executable Game link](https://drive.google.com/file/d/176UaT3ObvAtRbsPKKM93iPodcOow294Z/view?usp=sharing)
+
 ## 📖 Description
 
 Breaking Symmetry - A Dynamic 2D Puzzle Adventure
