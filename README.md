@@ -1,5 +1,3 @@
-# InterIITGamejam13.0
-
 # Breaking Symmetry
 
 ## 📖 Description
